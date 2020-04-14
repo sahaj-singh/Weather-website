@@ -1,9 +1,3 @@
-console.log('client site java script file is loaded')
-
-
-
-
-
 const weatherForm= document.querySelector('form')
 const inp=document.querySelector('input')
 const mes1= document.querySelector('#mes1')
